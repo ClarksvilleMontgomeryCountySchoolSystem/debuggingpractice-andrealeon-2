@@ -30,7 +30,7 @@ def main():
 
 
 # Comment out the line below after fixing input bugs
-main()
+#main()
 
 
 # --- Receipt Header ---
@@ -39,9 +39,7 @@ print("""
        GAS STATION RECEIPT
       Thank you for shopping!
 ========================================
-"""
-      ;p-
-0)
+""")
 
 # --- Candy Bars ---
 # Price: $1.89 each (float price, int quantity)
